@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @sachin vs
-- 👀 I want to learn computer science
-- 🌱 I’m currently learning the subject
-- 💞️ I’m looking to collaborate on related projects
+learning to code
 - 📫 How to reach me ... email= sachin.mi20@iiitmk.ac.in sachinvs1038@gmail.com
 
 <!---
