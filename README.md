@@ -3,6 +3,8 @@
 
 I am a Student of computer science from Kerala, India. I love to automate repeating works using code.
 
+- I work with images 🗻
+- Learning more about Blockchain 🎉
 - 📫 How to reach me -> sachinvs1038@gmail.com
 
 <!---
