@@ -5,7 +5,9 @@ I am a Student of computer science from Kerala, India. I love to automate repeat
 
 - I work with images 🗻
 - Learning more about Blockchain 🎉
+- Currently working on 3D Image mosaicing 🐾
 - 📫 How to reach me -> sachinvs1038@gmail.com
+
 
 <!---
 sachin-vs/sachin-vs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
