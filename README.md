@@ -1,6 +1,6 @@
 ./Hello World!
 
-I am a Student of computer science from Kerala, India. I love to automate repeating works using code.
+I am a Student of computer science from Kerala.
 
 -📫 How to reach me -> sachinvs1038@gmail.com
 
