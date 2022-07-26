@@ -1,12 +1,8 @@
-# Hey 👋 I'm Sachin and I am learning to code 🧑‍🔧
-
+./Hello World!
 
 I am a Student of computer science from Kerala, India. I love to automate repeating works using code.
 
-- I work with images 🗻
-- Learning more about Blockchain 🎉
-- Currently working on 3D Image mosaicing 🐾
-- 📫 How to reach me -> sachinvs1038@gmail.com
+-📫 How to reach me -> sachinvs1038@gmail.com
 
 
 <!---
