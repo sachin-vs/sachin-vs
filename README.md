@@ -1,7 +1,7 @@
 
 
 
-# <span style="color:#20C20E;">/hello world! </span><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# <span style="color:#20C20E;">/hello world! </span><img src="res/hello.gif" width="27px"> 
 
 <img align="right" width="250px" src="res/cmp.gif" />
 
