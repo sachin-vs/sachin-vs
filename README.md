@@ -3,7 +3,7 @@
 
 # <span style="color:#20C20E;">/hello world! </span><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-<img align="right" width="250px" src="https://i.gifer.com/6o0.gif" />
+<img align="right" width="250px" src="res/cmp.gif" />
 
 ## This is [Sachin](https://github.com/sachin-vs)！<br />
 <span style="color:#20C20E;">> </span> 🤓 I am a passionate programmer and a student of [Computer Science](https://en.wikipedia.org/wiki/Computer_science) at [Cochin University of Science and Technology](https://cusat.ac.in/). <br />
@@ -35,5 +35,5 @@
 ![bash](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=bash&logoColor=white)
 
 
-<div style="text-align:center"><img src="https://i.gifer.com/7Dg.gif" /></div>.
+<div style="text-align:center"><img src="res/anime.gif" /></div>.
 
