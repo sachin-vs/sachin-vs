@@ -1,7 +1,7 @@
 
 
 
-# <span style="color:#20C20E;">/hello world! </span><img src="res/hello.gif" width="27px"> 
+# /hello world! </span><img src="res/hello.gif" width="27px"> 
 
 <img align="right" width="250px" src="res/cmp.gif" />
 
@@ -10,7 +10,7 @@
 <span style="color:#20C20E;">> </span> 🎒I have experience working as a Blockchain developer from [Kerala Blockcain Academy](https://kba.ai/).<br/>
 <span style="color:#20C20E;">> </span> ✨ I am learning more about distributed systems and blockchain.<br />
 <span style="color:#20C20E;">> </span> ❤️ I am in love with Rust and Blockchain .<br />
-<span style="color:#20C20E;">> </span> 🎨 Hayo miyazaki is my favorite animator.<br />
+<span style="color:#20C20E;">> </span> 🎨 Hayo miyazaki is my hero.<br />
 <span style="color:#20C20E;">> </span> 🎤 I am a big fan of [Lofi music](https://www.youtube.com/c/LofiGirl).<br />
 
 
